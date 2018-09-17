@@ -1,0 +1,27 @@
+_repo: The-Lead-Pencil-Manufactory-of-A-W-Faber-at-Stein-near-Nurnberg-Bavaria-An-Historical-Sketch_52256
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Faber-Castell (Firm)
+    aliases:
+    - Faber (Firm)
+    - A.W. Faber (Firm)
+    gutenberg_agent_id: '46745'
+    url: http://www.gutenberg.org/2009/agents/46745
+description: ''
+gutenberg_issued: '2016-06-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52256'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Pencil industry -- Germany -- History'
+- !lcsh 'Faber-Castell (Firm) -- History'
+- !lcc 'HD'
+- GITenberg
+title: "The Lead Pencil Manufactory of A. W. Faber at Stein near Nürnberg, Bavaria\r\
+  \nAn Historical Sketch"
+url: http://www.gutenberg.org/ebooks/52256
