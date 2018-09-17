@@ -1,5 +1,8 @@
 _repo: The-Lead-Pencil-Manufactory-of-A-W-Faber-at-Stein-near-Nurnberg-Bavaria-An-Historical-Sketch_52256
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 52256-h/images/cover.jpg
 creator:
   author:
     agent_name: Faber-Castell (Firm)
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '46745'
     url: http://www.gutenberg.org/2009/agents/46745
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/52256#The-Lead-Pencil-Manufactory-of-A-W-Faber-at-Stein-near-Nurnberg-Bavaria-An-Historical-Sketch
 gutenberg_issued: '2016-06-07'
 gutenberg_type: Text
 identifiers:
